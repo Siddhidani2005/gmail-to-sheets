@@ -301,10 +301,7 @@ The application maintains data integrity by:
 
 All dependencies are listed in `requirements.txt`.
 
-## License
-
-[Add license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
+⚠ Limitations
+Processes only unread emails from Inbox.
+Attachments are not supported.
+Only plain text is saved (HTML formatting lost).
