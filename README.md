@@ -1,3 +1,4 @@
+Name-Siddhi Dani
 # Gmail to Sheets
 
 A Python application that automatically syncs unread emails from Gmail to a Google Sheet, extracting key information and organizing it for easy reference.
