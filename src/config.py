@@ -17,5 +17,5 @@ GMAIL_CREDENTIALS_FILE = "credentials/credentials.json"
 GMAIL_TOKEN_FILE = "credentials/token.json"
 
 # Google Sheet details
-SPREADSHEET_ID = "1jNLzdKRfjkdv_KecaxWCRms4vd27gVIHbJSYUApF1ys"
+SPREADSHEET_ID = "sheet_id"
 SHEET_NAME = "Sheet1"
